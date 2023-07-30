@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "embedding/.ATTRIBUTES/VARIABLE_VALUE",
+        "tensorShape": [
+          103924,
+          256
+        ],
+        "tensorPath": "https://media.githubusercontent.com/media/bareun-nlp/bareun-bin/main/embeddings/embeddings.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/bareun-nlp/bareun-bin/main/embeddings/metadata.tsv"
+      }
+    ]
+  }
